@@ -1,17 +1,26 @@
-# 你好，我是 haibian2604-del 👋
+# Hi, I'm Haibian 👋
 
-一位 Vibe Coding 学习者，正在通过项目记录学习与实践。
+### Vibe Coding learner · Building practical tools with AI and code
 
-## 🧩 项目
+I enjoy turning ideas into useful software and learning by shipping real projects. My work explores AI-powered products, developer tools, and personal knowledge systems.
 
-- [interview-ai](https://github.com/haibian2604-del/interview-ai)
-- [noteon](https://github.com/haibian2604-del/noteon)
-- [my-rag](https://github.com/haibian2604-del/my-rag)
-- [github-hot](https://github.com/haibian2604-del/github-hot)
-- [skill](https://github.com/haibian2604-del/skill)
+## 🚀 Featured Projects
 
-## 🛠️ 使用的技术
+- [**interview-ai**](https://github.com/haibian2604-del/interview-ai) — An AI mock interview app that uses your resume and a job description to create focused interview practice and actionable feedback.
+- [**noteon**](https://github.com/haibian2604-del/noteon) — A macOS Markdown editor with a Typora-style writing experience, live formatting, and source editing.
+- [**my-rag**](https://github.com/haibian2604-del/my-rag) — A self-hosted, Chinese-first knowledge base for document-grounded Q&A with traceable citations.
+- [**github-hot**](https://github.com/haibian2604-del/github-hot) — A GitHub Trending browser with language and time-period filters.
+- [**skill**](https://github.com/haibian2604-del/skill) — A collection of reusable Agent Skills and workflow guides.
 
-Python · TypeScript · HTML
+## 🧭 Areas I Explore
 
-欢迎看看我的项目，也欢迎交流！
+- AI-assisted applications and agent workflows
+- Retrieval-augmented generation and knowledge management
+- Developer experience and useful desktop tools
+
+## 🛠️ Technologies
+
+**Languages:** Python · TypeScript · Rust · HTML  
+**Frameworks & tools:** React · Next.js · Tauri · Tailwind CSS
+
+I build to learn, improve through iteration, and share what I find useful. Thanks for stopping by!
