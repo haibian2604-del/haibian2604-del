@@ -1,16 +1,17 @@
-## Hi there 👋
+# 你好，我是 haibian2604-del 👋
 
-<!--
-**haibian2604-del/haibian2604-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一位 Vibe Coding 学习者，正在通过项目记录学习与实践。
 
-Here are some ideas to get you started:
+## 🧩 项目
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [interview-ai](https://github.com/haibian2604-del/interview-ai)
+- [noteon](https://github.com/haibian2604-del/noteon)
+- [my-rag](https://github.com/haibian2604-del/my-rag)
+- [github-hot](https://github.com/haibian2604-del/github-hot)
+- [skill](https://github.com/haibian2604-del/skill)
+
+## 🛠️ 使用的技术
+
+Python · TypeScript · HTML
+
+欢迎看看我的项目，也欢迎交流！
